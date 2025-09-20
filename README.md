@@ -1,4 +1,4 @@
-# Deploy-smart-contract-on-base
+# Deploy smart contract on base
 → Head to: remix.ethereum.org 
 
 → Go to solidity compiler 
